@@ -10,7 +10,7 @@ Welcome to the YouTube Homepage Clone project! This project is a simple HTML and
 
 ## Demo
 
-You can view a live demo of the YouTube Homepage Clone [here](#).
+You can view a live demo of the YouTube Homepage Clone [here](https://1vishen.github.io/youtube-homepage-clone/youtube.html).
 
 <img src = "ss/ss_1.png" width = "800">
 
