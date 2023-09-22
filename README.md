@@ -26,6 +26,6 @@ To get a local copy of this project up and running, follow these steps:
 
 1. Clone the repository.
 2. Open the project folder in your favorite code editor.
-3. Open the index.html file in your web browser to view the YouTube homepage clone.
+3. Open the youtube.html file in your web browser to view the YouTube homepage clone.
 
 That's it! You now have a local copy of the YouTube homepage clone running on your machine.
