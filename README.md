@@ -14,7 +14,7 @@ Welcome to the YouTube Homepage Clone project! This project is a simple HTML and
 
 You can view a live demo of the YouTube Homepage Clone [here](#).
 
-<img src = "ss/ss_1.png" width = "400">
+<img src = "ss/ss_1.png" width = "800">
 
 ## Features
 
