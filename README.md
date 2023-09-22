@@ -6,9 +6,7 @@ Welcome to the YouTube Homepage Clone project! This project is a simple HTML and
 
 - [Demo](#demo)
 - [Features](#features)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
+- [Viewing the Code](#viewing-the-code)
 
 ## Demo
 
@@ -22,7 +20,7 @@ You can view a live demo of the YouTube Homepage Clone [here](#).
 - Static content: It uses only HTML and CSS, with no JavaScript involved.
 - Emulated YouTube features: It replicates the key elements of the YouTube homepage, including the header, sidebar, and video previews.
 
-## Getting Started
+## Viewing the Code
 
 To get a local copy of this project up and running, follow these steps:
 
